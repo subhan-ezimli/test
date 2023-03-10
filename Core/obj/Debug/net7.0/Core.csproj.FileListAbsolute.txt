@@ -1,0 +1,12 @@
+C:\Users\Subhan\Desktop\Optima\Core\bin\Debug\net7.0\Core.deps.json
+C:\Users\Subhan\Desktop\Optima\Core\bin\Debug\net7.0\Core.dll
+C:\Users\Subhan\Desktop\Optima\Core\bin\Debug\net7.0\Core.pdb
+C:\Users\Subhan\Desktop\Optima\Core\obj\Debug\net7.0\Core.csproj.AssemblyReference.cache
+C:\Users\Subhan\Desktop\Optima\Core\obj\Debug\net7.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Subhan\Desktop\Optima\Core\obj\Debug\net7.0\Core.AssemblyInfoInputs.cache
+C:\Users\Subhan\Desktop\Optima\Core\obj\Debug\net7.0\Core.AssemblyInfo.cs
+C:\Users\Subhan\Desktop\Optima\Core\obj\Debug\net7.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\Subhan\Desktop\Optima\Core\obj\Debug\net7.0\Core.dll
+C:\Users\Subhan\Desktop\Optima\Core\obj\Debug\net7.0\refint\Core.dll
+C:\Users\Subhan\Desktop\Optima\Core\obj\Debug\net7.0\Core.pdb
+C:\Users\Subhan\Desktop\Optima\Core\obj\Debug\net7.0\ref\Core.dll
